@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Zahra Aljishi
 description              : Zahra Aljishi - Projects and CV 
-baseurl                  : "/Cornell-MAE-UG/fa25-portfolio-za85-z"
+baseurl                  : "/cornell-mae-ug.github.io/Cornell-MAE-UG/fa25-portfolio-za85-z"
 
 # Theme and Style
 theme: jekyll-theme-minimal
