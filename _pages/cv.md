@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Zahra Aljishi - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
