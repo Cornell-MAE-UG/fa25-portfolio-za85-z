@@ -10,7 +10,7 @@ For ENGRD 2020 class, we were given a 2D design space of 150cm long and 50cm tal
 actuator from the Tolomatic catalog.
 
 This is the design:
-![](/assets/images/Sketch.png)
+![]({{ site.baseurl }}/assets/images/Sketch.png)
 
 and relevant calculations:
-![](/assets/images/Calculations.png)
+![]({{ site.baseurl }}/assets/images/Calculations.png)
