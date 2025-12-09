@@ -6,7 +6,7 @@ technologies: []
 image: /assets/images/Design.jpg
 ---
 
-**Problem:**
+__Problem:__
 Design a mechanism that can lift the maximum possible weight to the highest possible height.
 
 **Constraints/Objectives:**
@@ -21,11 +21,11 @@ The supports and bar were considered rigid. The mechanical advantage was used to
 
 
 This is the modified design:
-![]({{ site.baseurl }}/assets/images/Design.jpg)
+({{ site.baseurl }}/assets/images/Design.jpg)
 
 
 Now treating the bar as a beam which bends due to weight and actuator, the maximum deflection was calculated. The actuator was treated as a roller, and the weight was slanted but only the transverse component was considered. 
 The material was chosen to be aluminum and based on its modulus of elasticity, the minimum moment of inertia was calculated. An I-beam cross section was chosen to be most mass-efficient, and its dimensions chosen such as the moment of inertia remains above 8.19 mm^4.
 
 This is the final design:
-![]({{ site.baseurl }}/assets/images/Final.jpg)
+({{ site.baseurl }}/assets/images/Final.jpg)
