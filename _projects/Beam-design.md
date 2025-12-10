@@ -3,7 +3,7 @@ layout: project
 title: Beam Design 
 description: Follow up on HW5
 technologies: []
-image: /assets/images/Overall.jpg
+image: /assets/images/Design.jpg
 ---
 
 
@@ -11,7 +11,7 @@ image: /assets/images/Overall.jpg
 Design a mechanism that can lift the maximum possible weight to the highest possible height.
 
 **Constraints/Objectives:**
-- Use a 2D design space of 150 cm long and 50 cm tall.
+- Use a 2D design space of 150 cm long and 50 cm tall
 - Fixed length bar
 - 3 pin supports, two mounted on the ground and a linear actuator
 
@@ -21,15 +21,15 @@ Design a mechanism that can lift the maximum possible weight to the highest poss
 The supports and bar were considered rigid. The mechanical advantage was used to determine the load the structure can support. The length of the bar (the effort arm) was used to determine the load arm (where to place the load)
 
 
-This is the modified design:
-![]({{ site.baseurl }}/assets/images/Final.jpg)
+**This is the modified design:**
+![]({{ site.baseurl }}/assets/images/Design.jpg)
 
 
 Now treating the bar as a beam which bends due to weight and actuator, the maximum deflection was calculated. The actuator was treated as a roller, and the weight was slanted but only the transverse component was considered. 
 The material was chosen to be aluminum and based on its modulus of elasticity, the minimum moment of inertia was calculated. An I-beam cross section was chosen to be most mass-efficient, and its dimensions chosen such as the moment of inertia remains above 8.19 mm^4.
 
-Calculations:
-![]({{ site.baseurl }}/assets/images/Final.jpg)
+**Calculations:**
+![]({{ site.baseurl }}/assets/images/Bending.jpg)
 
-This is the final design:
+**This is the final design:**
 ![]({{ site.baseurl }}/assets/images/Final.jpg)
