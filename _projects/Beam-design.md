@@ -22,7 +22,7 @@ The supports and bar were considered rigid. The mechanical advantage was used to
 
 
 **This is the modified design:**
-![]({{ site.baseurl }}/assets/images/Design.jpg)
+<img src="{{ site.baseurl }}/assets/images/Design.jpg" alt="Modified Design" width="60%" />
 
 
 Now treating the bar as a beam which bends due to weight and actuator, the maximum deflection was calculated. The actuator was treated as a roller, and the weight was slanted but only the transverse component was considered. 
