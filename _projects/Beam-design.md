@@ -29,7 +29,7 @@ Now treating the bar as a beam which bends due to weight and actuator, the maxim
 The material was chosen to be aluminum and based on its modulus of elasticity, the minimum moment of inertia was calculated. An I-beam cross section was chosen to be most mass-efficient, and its dimensions chosen such as the moment of inertia remains above 8.19 mm^4.
 
 **Calculations:**
-![]({{ site.baseurl }}/assets/images/Bending.jpg)
+<img src="{{ site.baseurl }}/assets/images/Bending.jpg" alt="Modified Design" width="60%" />
 
 **This is the final design:**
-![]({{ site.baseurl }}/assets/images/Final.jpg)
+<img src="{{ site.baseurl }}/assets/images/Final.jpg" alt="Modified Design" width="60%" />
