@@ -6,7 +6,6 @@ technologies: []
 image: /assets/images/Overall.jpg
 ---
 
-NOTE: URLs for images are not working but everything is shown in the cover image
 
 **Problem:**
 Design a mechanism that can lift the maximum possible weight to the highest possible height.
